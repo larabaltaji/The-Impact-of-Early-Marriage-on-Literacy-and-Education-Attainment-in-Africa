@@ -1,5 +1,5 @@
 # The Impact of Early Marriage on Literacy and Education Attainment in Africa
-_The objective of this project is to practice on Exploratory and Explanatory data analysis through the use of effective visualizations on Tableau._
+_The objective of this project is to practice on exploratory and explanatory data analysis through the use of effective visualizations on Tableau._
 
 **Big Idea**:
 
